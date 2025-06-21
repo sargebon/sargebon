@@ -1,4 +1,4 @@
-## Hi there 👋
+## wip, landoscar besties core muhahaha
 
 <!--
 **landoscar/landoscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
