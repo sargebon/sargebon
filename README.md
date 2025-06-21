@@ -1,7 +1,7 @@
 <p align="center"> llandoscar . ezra </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/m6gje0.png" width="480" height="270"/>
+<img src="https://files.catbox.moe/m6gje0.png" width="400" height="400"/>
 
   
 <p align="center"> he . they pref　₊ </p>
