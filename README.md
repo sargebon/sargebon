@@ -1,4 +1,4 @@
-<p align="center"> llandoscar . ezra </p>
+<p align="center"> landoscar . ezra </p>
 
 <p align="center">
 <img src="https://files.catbox.moe/m6gje0.png" width="320" height="320"/>
